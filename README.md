@@ -1,4 +1,7 @@
 # Base de datos
 
-- [Tema 3](TEMA03/)
-- [Tema 6](TEMA06/)
+[Primer trimestre](Tareas/Primer%20Trimestre/)
+
+[Segundo trimestre](Tareas/Segundo%20Trimestre/REA[Tarea 1]()DME.md)
+
+[Tercer trimestre](Tareas/Tercer%20Trimestre/README.md)
