@@ -17,7 +17,6 @@ call suma(5,5,@resultado);
 SELECT @resultado;
 
 # Codificar un procedimiento que reciba una cadena y la visualice al revés.
-
 DROP PROCEDURE IF EXISTS cadenaReversa;
 
 delimiter //
