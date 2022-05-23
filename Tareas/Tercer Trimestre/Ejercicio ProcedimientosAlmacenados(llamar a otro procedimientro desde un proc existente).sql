@@ -47,5 +47,5 @@ begin
 end //
 delimiter ;
 
-call getAnio("2020-06-21", @anio);
+call getAnio('2020-06-21', @anio);
 
